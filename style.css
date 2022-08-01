@@ -1,0 +1,385 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.body{
+
+}
+#header{
+    background: #161D2F;
+}
+#section{
+    background: #161D2F;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.Stay{
+    color: white;
+    font-weight: 800;
+    font-size: 24px;
+}
+.head1{
+    color: #FFFFFF;
+    text-decoration: none;
+    margin: 20px;
+}
+.Btn1{
+    background: linear-gradient(97.1deg, #3043A9 11.99%, #1F629F 96.6%);
+    border-radius: 28px;
+    height: 40px;
+    font-size: 15px;
+   width: 130px;
+    color: white;
+    border: none;
+}
+.body{
+    background: #161D2F;
+}
+.menu2{
+    display: flex;
+    align-items: center;
+   justify-content: center;
+    flex-direction: column;
+}
+.Well{
+    color: white;
+    margin-top: 70px;
+}
+.Chou{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-size: 70px;
+    line-height: 150%;
+    text-align: center;
+    color: #FFFFFF;
+    width: 950px;
+}
+.Stay2{
+    width: 689px;
+    height: 90px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+.Btn2{
+    background: linear-gradient(97.1deg, #3043A9 11.99%, #1F629F 96.6%);
+    border-radius: 26px;
+    height: 38px;
+    font-size: 13px;
+    width: 128px;
+    color: white;
+}
+.Btn3{
+    height: 38px;
+    font-size: 13px;
+    line-height: 27px;
+    width: 128px;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    border-radius: 28px;
+    background: #161D2F;
+}
+.BBtn{
+    width: 275px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px;
+}
+.img1{
+    width: 1140px;
+    height: 835px;
+    left: 80px;
+    top: 538px;
+    border-radius: 10px;
+    margin: 0 0 35px 0;
+}
+#section2{
+    background:white;
+}
+.menu3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+.Program{
+    margin-top: 70px;
+}
+.WE{
+    color: #222222;
+   font-size: 40px;
+   width: 590px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%;
+    text-align: center;
+    text-transform: capitalize;
+}
+.swiper {
+    width: 100%;
+    height: 400%;
+}
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #E5E5E5;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    margin-top: 25px;
+}
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.img2{
+    border-radius: 20px;
+}
+.foto{
+    display: flex;
+    align-items:center ;
+    justify-content: space-between;
+    width: 95%;
+}
+.By{
+    width: 146px;
+    height: 26px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 26px;
+    color: #222222;
+}
+.You{
+    width: 315px;
+    height: 52px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 26px;
+    color: #4B4B4B;
+}
+.Check{
+    width: 175px;
+    height: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    font-feature-settings: 'salt' on, 'liga' off;
+    color: #3043A9;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#section3{
+    background: white;
+}
+.menu4{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.img3{
+    border-radius: 20px;
+    margin: 300px 0 0 100px;
+}
+.img4{
+    width: 472px;
+    height: 274px;
+    border-radius: 10px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+   margin: -100px 0 30px 0;
+}
+
+.footer{
+    width: 40%;
+    margin-top: 250px;
+    display: flex;
+    align-items:flex-start;
+    justify-content: center;
+    flex-direction: column;
+}
+.NUT{
+    width: 65px;
+    height: 21px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-transform: uppercase;
+    color: #222222;
+
+}
+.MEAL{
+    width: 445px;
+    height: 120px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 150%;
+    text-transform: capitalize;
+    color: #161D2F;
+
+
+}
+.Dont{
+    width: 445px;
+    height: 90px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 30px;
+    text-transform: capitalize;
+
+}
+.Total{
+    color: #3043A9;
+}
+.Btn4{
+    background: linear-gradient(97.1deg, #3043A9 11.99%, #1F629F 96.6%);
+    border-radius: 28px;
+    height: 40px;
+    font-size: 15px;
+    width: 130px;
+    color: white;
+    border: none;
+    margin-top: 100px;
+}
+.Big{
+    width: 280px;
+    height: 45px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 45px;
+    color: #222222;
+}
+@media (max-width: 1024px) {
+    .container{
+        width: 1000px;
+    }
+    .img1 {
+        width: 1024px;
+        height: 770px;
+}
+@media (max-width: 992px) {
+    .container{
+        width: 940px;
+    }
+    .img1 {
+        width: 992px;
+        height: 725px;}
+    .img3 {
+        margin: 300px 0 0 52px;
+    }
+    .img4 {
+        margin: -100px 0 30px -37px;
+    }
+    .MEAL {
+        width: 382px;}
+    .Dont {
+        width: 400px;
+    }
+
+    .Well {
+        margin-top: 69px;
+    }
+    }
+@media (max-width: 768px) {
+    .container{
+        width: 700px;
+    }
+    .img1 {
+        width: 769px;
+        height: 588px;
+    }
+    .head1{
+        display: none;
+    }
+    .Chou {
+        font-size: 25px;}
+    .By {
+        width: 144px;
+        font-size: 9px;}
+
+    .Big {
+        width: 176px;
+        font-size: 15px;}
+
+    .You {
+        width: 240px;
+        font-size: 10px;}
+}
+@media (max-width: 576px) {}
+    .container {
+        width: 500px;}
+    .Chou {
+        font-size: 17px;
+        margin: 20px 0 0 0;}
+    .Stay2 {
+        width: 471px;
+        margin: 25px;}
+    .img1 {
+        width: 576px;
+        height: 458px;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
